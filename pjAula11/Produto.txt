@@ -1,0 +1,2 @@
+133,Sabao,100,Ativo,E0101,PC
+546,Lápis,24,Inativo,A6541,Dz
